@@ -1,2 +1,3 @@
 # Boos
-Hacking termux
+os.system(Clear)
+print (hello)
