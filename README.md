@@ -1,0 +1,2 @@
+# Boos
+Hacking termux
